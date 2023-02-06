@@ -17,8 +17,8 @@ Self-Employed (No/Yes), credit history(Yes/No), Property Area (Rural/Semi-Urban/
 
 Numerical Columns: Loan ID, Applicant Income, Co-applicant Income, Loan Amount, and Loan amount term
 
-Conclusion
+Conclusion :
 The Logistic Regression Model produced an Accuracy of 73%.
 Hyper Parameter Optimization was carried out using Randomized Cross Validation and a new accuracy of 80.16% was obtained.
 
-Feature engineering helped me increase my accuracy.
+
